@@ -1,0 +1,106 @@
+{
+  "date": "2026-02-28T16:39:41.610Z",
+  "day_type": "Full Body",
+  "intensity": "Moderate",
+  "block_week": 1,
+  "exercises": [
+    {
+      "name": "Push-ups",
+      "sets": 4,
+      "reps": 12,
+      "weight": 0,
+      "rest_seconds": 120
+    },
+    {
+      "name": "Inverted Rows (Squat Rack)",
+      "sets": 4,
+      "reps": 10,
+      "weight": 0,
+      "rest_seconds": 120
+    },
+    {
+      "name": "Bulgarian Split Squats (per leg)",
+      "sets": 4,
+      "reps": 10,
+      "weight": 0,
+      "rest_seconds": 120
+    },
+    {
+      "name": "Lying Leg Raises",
+      "sets": 4,
+      "reps": 15,
+      "weight": 0,
+      "rest_seconds": 120
+    },
+    {
+      "name": "Pike Push-ups",
+      "sets": 4,
+      "reps": 8,
+      "weight": 0,
+      "rest_seconds": 120
+    }
+  ],
+  "actual_results": [
+    {
+      "exercise_name": "Push-ups",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Inverted Rows (Squat Rack)",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Bulgarian Split Squats (per leg)",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Lying Leg Raises",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        15,
+        15,
+        15,
+        15
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Pike Push-ups",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    }
+  ],
+  "overall_intensity": "Moderate"
+}
