@@ -5,12 +5,13 @@
 ## Stats
 | Metric | Value |
 |---|---|
-| Total sessions | 3 |
+| Total sessions | 4 |
 | Last workout | 2026-03-01 — Upper Body Push |
 
 ## Recent Workouts (last 5)
 | Date | Type | Exercises | Intensity |
 |---|---|---|---|
+| 2026-03-01 | Upper Body Push | 5 | Moderate |
 | 2026-03-01 | Upper Body Push | 5 | Moderate |
 | 2026-03-01 | Upper Body Push | 5 | Moderate |
 | 2026-02-28 | Full Body | 5 | Moderate |
