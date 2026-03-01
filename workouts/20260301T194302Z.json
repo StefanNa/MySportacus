@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-01T19:43:02.152Z",
+  "day_type": "Upper Body Push",
+  "intensity": "Moderate",
+  "block_week": 1,
+  "exercises": [
+    {
+      "name": "Standard Push-ups",
+      "sets": 3,
+      "reps": 12,
+      "weight": 0,
+      "rest_seconds": 90
+    },
+    {
+      "name": "Pike Push-ups",
+      "sets": 3,
+      "reps": 10,
+      "weight": 0,
+      "rest_seconds": 90
+    },
+    {
+      "name": "Elevated Feet Push-ups",
+      "sets": 3,
+      "reps": 10,
+      "weight": 0,
+      "rest_seconds": 90
+    },
+    {
+      "name": "Rack Dips",
+      "sets": 3,
+      "reps": 8,
+      "weight": 0,
+      "rest_seconds": 120
+    },
+    {
+      "name": "Plank with Shoulder Taps",
+      "sets": 3,
+      "reps": 20,
+      "weight": 0,
+      "rest_seconds": 60
+    }
+  ],
+  "actual_results": [
+    {
+      "exercise_name": "Standard Push-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Pike Push-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Elevated Feet Push-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Rack Dips",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Plank with Shoulder Taps",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        20,
+        20,
+        20
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    }
+  ],
+  "overall_intensity": "Moderate",
+  "block_id": "block-20231027",
+  "session_key": "A"
+}
