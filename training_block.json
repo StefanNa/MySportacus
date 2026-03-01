@@ -1,0 +1,133 @@
+{
+  "id": "block-20231027",
+  "generated_at": "2026-03-01T19:40:22.856Z",
+  "weeks_total": 4,
+  "sessions": [
+    {
+      "session_key": "A",
+      "day_type": "Upper Body Push",
+      "exercises": [
+        {
+          "name": "Decline Push-ups",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 90
+        },
+        {
+          "name": "Parallel Bar Dips",
+          "sets": 3,
+          "reps": 8,
+          "weight": 0,
+          "rest_seconds": 90
+        },
+        {
+          "name": "Pike Push-ups",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 75
+        },
+        {
+          "name": "Archer Push-ups",
+          "sets": 3,
+          "reps": 6,
+          "weight": 0,
+          "rest_seconds": 90
+        },
+        {
+          "name": "Bodyweight Triceps Extensions",
+          "sets": 3,
+          "reps": 12,
+          "weight": 0,
+          "rest_seconds": 60
+        }
+      ]
+    },
+    {
+      "session_key": "B",
+      "day_type": "Upper Body Pull",
+      "exercises": [
+        {
+          "name": "Wide Grip Pull-ups",
+          "sets": 3,
+          "reps": 6,
+          "weight": 0,
+          "rest_seconds": 120
+        },
+        {
+          "name": "Inverted Rows",
+          "sets": 3,
+          "reps": 12,
+          "weight": 0,
+          "rest_seconds": 90
+        },
+        {
+          "name": "Close Grip Chin-ups",
+          "sets": 3,
+          "reps": 6,
+          "weight": 0,
+          "rest_seconds": 120
+        },
+        {
+          "name": "Typewriter Pull-ups",
+          "sets": 3,
+          "reps": 4,
+          "weight": 0,
+          "rest_seconds": 90
+        },
+        {
+          "name": "Bodyweight Bicep Curls",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 75
+        }
+      ]
+    },
+    {
+      "session_key": "C",
+      "day_type": "Lower Body & Core",
+      "exercises": [
+        {
+          "name": "Assisted Pistol Squats",
+          "sets": 3,
+          "reps": 8,
+          "weight": 0,
+          "rest_seconds": 90
+        },
+        {
+          "name": "Bodyweight Bulgarian Split Squats",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 75
+        },
+        {
+          "name": "Glute Bridge Walkouts",
+          "sets": 3,
+          "reps": 15,
+          "weight": 0,
+          "rest_seconds": 60
+        },
+        {
+          "name": "Single Leg Calf Raises",
+          "sets": 3,
+          "reps": 15,
+          "weight": 0,
+          "rest_seconds": 60
+        },
+        {
+          "name": "Hanging Leg Raises",
+          "sets": 3,
+          "reps": 12,
+          "weight": 0,
+          "rest_seconds": 90
+        }
+      ]
+    }
+  ],
+  "start_date": "2026-03-01",
+  "current_week": 1,
+  "next_session_key": "B"
+}
