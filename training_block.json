@@ -1,46 +1,68 @@
 {
-  "id": "block-20231027",
-  "generated_at": "2026-03-01T19:41:43.989Z",
+  "id": "block-20240521",
+  "generated_at": "2026-03-02T23:07:16.676Z",
   "weeks_total": 4,
+  "sessions_per_week": 2,
   "sessions": [
     {
       "session_key": "A",
-      "day_type": "Upper Body Push",
+      "day_type": "Upper Body Push & Pull",
       "exercises": [
         {
-          "name": "Standard Push-ups",
+          "name": "Push-ups",
           "sets": 3,
           "reps": 12,
           "weight": 0,
-          "rest_seconds": 90
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "chest",
+            "triceps",
+            "shoulders"
+          ]
+        },
+        {
+          "name": "Assisted Pull-ups",
+          "sets": 3,
+          "reps": 8,
+          "weight": 0,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "upper_back",
+            "biceps"
+          ]
         },
         {
           "name": "Pike Push-ups",
           "sets": 3,
           "reps": 10,
           "weight": 0,
-          "rest_seconds": 90
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "shoulders",
+            "triceps"
+          ]
         },
         {
-          "name": "Elevated Feet Push-ups",
+          "name": "Dips (Bench or Chair)",
           "sets": 3,
-          "reps": 10,
+          "reps": 12,
           "weight": 0,
-          "rest_seconds": 90
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "chest",
+            "triceps"
+          ]
         },
         {
-          "name": "Rack Dips",
+          "name": "Inverted Rows",
           "sets": 3,
-          "reps": 8,
+          "reps": 12,
           "weight": 0,
-          "rest_seconds": 120
-        },
-        {
-          "name": "Plank with Shoulder Taps",
-          "sets": 3,
-          "reps": 20,
-          "weight": 0,
-          "rest_seconds": 60
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "upper_back",
+            "biceps"
+          ]
         }
       ]
     },
@@ -49,92 +71,71 @@
       "day_type": "Lower Body & Core",
       "exercises": [
         {
-          "name": "Bodyweight Squats",
-          "sets": 3,
+          "name": "Kettlebell Swings",
+          "sets": 4,
           "reps": 15,
-          "weight": 0,
-          "rest_seconds": 90
-        },
-        {
-          "name": "Bulgarian Split Squats",
-          "sets": 3,
-          "reps": 10,
-          "weight": 0,
-          "rest_seconds": 90
+          "weight": 16,
+          "rest_seconds": 75,
+          "muscle_groups": [
+            "glutes",
+            "hamstrings"
+          ]
         },
         {
           "name": "Glute Bridges",
           "sets": 3,
           "reps": 15,
           "weight": 0,
-          "rest_seconds": 60
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "glutes",
+            "hamstrings"
+          ]
         },
         {
-          "name": "Standing Calf Raises",
+          "name": "Calf Raises",
           "sets": 3,
           "reps": 20,
           "weight": 0,
-          "rest_seconds": 60
+          "rest_seconds": 45,
+          "muscle_groups": [
+            "calves"
+          ]
         },
         {
-          "name": "Lying Leg Raises",
+          "name": "Plank",
+          "sets": 3,
+          "reps": 60,
+          "weight": 0,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "abs",
+            "lower_back"
+          ]
+        },
+        {
+          "name": "Leg Raises",
           "sets": 3,
           "reps": 15,
           "weight": 0,
-          "rest_seconds": 60
-        }
-      ]
-    },
-    {
-      "session_key": "C",
-      "day_type": "Upper Body Pull & Core",
-      "exercises": [
-        {
-          "name": "Pull-ups (Wide Grip)",
-          "sets": 3,
-          "reps": 6,
-          "weight": 0,
-          "rest_seconds": 120
-        },
-        {
-          "name": "Inverted Rows (Barbell on Rack)",
-          "sets": 3,
-          "reps": 12,
-          "weight": 0,
-          "rest_seconds": 90
-        },
-        {
-          "name": "Chin-ups (Close Grip)",
-          "sets": 3,
-          "reps": 8,
-          "weight": 0,
-          "rest_seconds": 120
-        },
-        {
-          "name": "L-Sit Hold (on Mats)",
-          "sets": 3,
-          "reps": 20,
-          "weight": 0,
-          "rest_seconds": 90
-        },
-        {
-          "name": "Superman",
-          "sets": 3,
-          "reps": 15,
-          "weight": 0,
-          "rest_seconds": 60
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "abs"
+          ]
         }
       ]
     }
   ],
-  "start_date": "2026-03-01",
-  "current_week": 1,
-  "next_session_key": "B",
+  "schedule": [
+    "A",
+    "B"
+  ],
+  "start_date": "2026-03-02",
   "completed_sessions": [
     {
       "week": 1,
       "session_key": "A",
-      "date": "2026-03-01T21:01:21.699Z"
+      "date": "2026-03-03T00:31:47.609Z"
     }
   ]
 }
