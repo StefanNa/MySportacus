@@ -1,0 +1,124 @@
+{
+  "date": "2026-03-03T00:31:47.596Z",
+  "day_type": "Upper Body Push & Pull",
+  "intensity": "Moderate",
+  "block_week": 1,
+  "exercises": [
+    {
+      "name": "Push-ups",
+      "sets": 3,
+      "reps": 12,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "chest",
+        "triceps",
+        "shoulders"
+      ]
+    },
+    {
+      "name": "Assisted Pull-ups",
+      "sets": 3,
+      "reps": 8,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "upper_back",
+        "biceps"
+      ]
+    },
+    {
+      "name": "Pike Push-ups",
+      "sets": 3,
+      "reps": 10,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "shoulders",
+        "triceps"
+      ]
+    },
+    {
+      "name": "Dips (Bench or Chair)",
+      "sets": 3,
+      "reps": 12,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "chest",
+        "triceps"
+      ]
+    },
+    {
+      "name": "Inverted Rows",
+      "sets": 3,
+      "reps": 12,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "upper_back",
+        "biceps"
+      ]
+    }
+  ],
+  "actual_results": [
+    {
+      "exercise_name": "Push-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Assisted Pull-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Pike Push-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Dips (Bench or Chair)",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Inverted Rows",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    }
+  ],
+  "overall_intensity": "Moderate",
+  "block_id": "block-20240521",
+  "session_key": "A"
+}
