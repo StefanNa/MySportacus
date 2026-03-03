@@ -1,58 +1,14 @@
 {
   "entries": [
     {
-      "date": "2026-03-01T19:40:58.386Z",
-      "block_id": "block-20231027",
+      "date": "2026-03-03T22:46:19.440Z",
+      "block_id": "block-20240517",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Decline Push-ups",
-      "sets_completed": 3,
+      "exercise_name": "Barbell Back Squat",
+      "sets_completed": 4,
       "actual_reps_per_set": [
-        10,
-        10,
-        10
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T19:40:58.386Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Parallel Bar Dips",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        8,
-        8,
-        8
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T19:40:58.386Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Pike Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        10,
-        10,
-        10
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T19:40:58.386Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Archer Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
+        6,
         6,
         6,
         6
@@ -61,71 +17,11 @@
       "perceived_intensity": "Moderate"
     },
     {
-      "date": "2026-03-01T19:40:58.386Z",
-      "block_id": "block-20231027",
+      "date": "2026-03-03T22:46:19.440Z",
+      "block_id": "block-20240517",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Bodyweight Triceps Extensions",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        12,
-        12,
-        12
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T19:43:02.152Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Standard Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        12,
-        12,
-        12
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T19:43:02.152Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Pike Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        10,
-        10,
-        10
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T19:43:02.152Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Elevated Feet Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        10,
-        10,
-        10
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T19:43:02.152Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Rack Dips",
+      "exercise_name": "Dumbbell Romanian Deadlift",
       "sets_completed": 3,
       "actual_reps_per_set": [
         8,
@@ -136,71 +32,11 @@
       "perceived_intensity": "Moderate"
     },
     {
-      "date": "2026-03-01T19:43:02.152Z",
-      "block_id": "block-20231027",
+      "date": "2026-03-03T22:46:19.440Z",
+      "block_id": "block-20240517",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Plank with Shoulder Taps",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        20,
-        20,
-        20
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T21:01:21.554Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Standard Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        12,
-        12,
-        12
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T21:01:21.554Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Pike Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        10,
-        10,
-        10
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T21:01:21.554Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Elevated Feet Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        10,
-        10,
-        10
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-01T21:01:21.554Z",
-      "block_id": "block-20231027",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Rack Dips",
+      "exercise_name": "Barbell Bench Press",
       "sets_completed": 3,
       "actual_reps_per_set": [
         8,
@@ -211,56 +47,11 @@
       "perceived_intensity": "Moderate"
     },
     {
-      "date": "2026-03-01T21:01:21.554Z",
-      "block_id": "block-20231027",
+      "date": "2026-03-03T22:46:19.440Z",
+      "block_id": "block-20240517",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Plank with Shoulder Taps",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        20,
-        20,
-        20
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T00:31:47.596Z",
-      "block_id": "block-20240521",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Push-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        12,
-        12,
-        12
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T00:31:47.596Z",
-      "block_id": "block-20240521",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Assisted Pull-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        8,
-        8,
-        8
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T00:31:47.596Z",
-      "block_id": "block-20240521",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Pike Push-ups",
+      "exercise_name": "Barbell Row",
       "sets_completed": 3,
       "actual_reps_per_set": [
         10,
@@ -271,31 +62,16 @@
       "perceived_intensity": "Moderate"
     },
     {
-      "date": "2026-03-03T00:31:47.596Z",
-      "block_id": "block-20240521",
+      "date": "2026-03-03T22:46:19.440Z",
+      "block_id": "block-20240517",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Dips (Bench or Chair)",
+      "exercise_name": "Plank",
       "sets_completed": 3,
       "actual_reps_per_set": [
-        12,
-        12,
-        12
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T00:31:47.596Z",
-      "block_id": "block-20240521",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Inverted Rows",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        12,
-        12,
-        12
+        60,
+        60,
+        60
       ],
       "weight_kg": 0,
       "perceived_intensity": "Moderate"
