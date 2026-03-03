@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-03T22:46:19.440Z",
+  "day_type": "Full Body Strength",
+  "intensity": "Moderate",
+  "block_week": 1,
+  "exercises": [
+    {
+      "name": "Barbell Back Squat",
+      "sets": 4,
+      "reps": 6,
+      "weight": 0,
+      "rest_seconds": 90,
+      "muscle_groups": [
+        "quads",
+        "glutes",
+        "lower_back"
+      ]
+    },
+    {
+      "name": "Dumbbell Romanian Deadlift",
+      "sets": 3,
+      "reps": 8,
+      "weight": 0,
+      "rest_seconds": 75,
+      "muscle_groups": [
+        "hamstrings",
+        "glutes",
+        "lower_back"
+      ]
+    },
+    {
+      "name": "Barbell Bench Press",
+      "sets": 3,
+      "reps": 8,
+      "weight": 0,
+      "rest_seconds": 75,
+      "muscle_groups": [
+        "chest",
+        "triceps"
+      ]
+    },
+    {
+      "name": "Barbell Row",
+      "sets": 3,
+      "reps": 10,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "upper_back",
+        "biceps"
+      ]
+    },
+    {
+      "name": "Plank",
+      "sets": 3,
+      "reps": 60,
+      "weight": 0,
+      "rest_seconds": 45,
+      "muscle_groups": [
+        "abs"
+      ]
+    }
+  ],
+  "actual_results": [
+    {
+      "exercise_name": "Barbell Back Squat",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Dumbbell Romanian Deadlift",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Barbell Bench Press",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Barbell Row",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Plank",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        60,
+        60,
+        60
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    }
+  ],
+  "overall_intensity": "Moderate",
+  "block_id": "block-20240517",
+  "session_key": "A"
+}
