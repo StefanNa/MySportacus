@@ -5,22 +5,22 @@
 ## Stats
 | Metric | Value |
 |---|---|
-| Total sessions | 5 |
-| Last workout | 2026-03-03 — Upper Body Push & Pull |
+| Total sessions | 3 |
+| Last workout | 2026-03-03 — Full Body Strength |
 
 ## Recent Workouts (last 5)
 | Date | Type | Exercises | Intensity |
 |---|---|---|---|
-| 2026-03-03 | Upper Body Push & Pull | 5 | Moderate |
-| 2026-03-01 | Upper Body Push | 5 | Moderate |
-| 2026-03-01 | Upper Body Push | 5 | Moderate |
-| 2026-03-01 | Upper Body Push | 5 | Moderate |
+| 2026-03-03 | Full Body Strength | 5 | Moderate |
+| 2026-02-28 | Full Body | 5 | Moderate |
 | 2026-02-28 | Full Body | 5 | Moderate |
 
 ## Personal Records
 | Exercise | Best Weight | Date |
 |---|---|---|
-| — | — | — |
+| Kettlebell Goblet Squat | 10 kg | 2026-02-28 |
+| Kettlebell Romanian Deadlift | 8 kg | 2026-02-28 |
+| Kettlebell Single Leg Romanian Deadlift | 5 kg | 2026-02-28 |
 
 ## Data Files
 | File | Description |
