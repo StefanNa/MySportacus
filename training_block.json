@@ -1,105 +1,57 @@
 {
-  "id": "block-20240521",
-  "generated_at": "2026-03-02T23:07:16.676Z",
+  "id": "block-20240517",
+  "generated_at": "2026-03-03T18:51:27.202Z",
   "weeks_total": 4,
-  "sessions_per_week": 2,
+  "sessions_per_week": 4,
   "sessions": [
     {
       "session_key": "A",
-      "day_type": "Upper Body Push & Pull",
+      "day_type": "Full Body Strength",
       "exercises": [
         {
-          "name": "Push-ups",
-          "sets": 3,
-          "reps": 12,
+          "name": "Barbell Back Squat",
+          "sets": 4,
+          "reps": 6,
           "weight": 0,
-          "rest_seconds": 60,
+          "rest_seconds": 90,
           "muscle_groups": [
-            "chest",
-            "triceps",
-            "shoulders"
+            "quads",
+            "glutes",
+            "lower_back"
           ]
         },
         {
-          "name": "Assisted Pull-ups",
+          "name": "Dumbbell Romanian Deadlift",
           "sets": 3,
           "reps": 8,
           "weight": 0,
-          "rest_seconds": 60,
+          "rest_seconds": 75,
           "muscle_groups": [
-            "upper_back",
-            "biceps"
+            "hamstrings",
+            "glutes",
+            "lower_back"
           ]
         },
         {
-          "name": "Pike Push-ups",
+          "name": "Barbell Bench Press",
+          "sets": 3,
+          "reps": 8,
+          "weight": 0,
+          "rest_seconds": 75,
+          "muscle_groups": [
+            "chest",
+            "triceps"
+          ]
+        },
+        {
+          "name": "Barbell Row",
           "sets": 3,
           "reps": 10,
           "weight": 0,
           "rest_seconds": 60,
           "muscle_groups": [
-            "shoulders",
-            "triceps"
-          ]
-        },
-        {
-          "name": "Dips (Bench or Chair)",
-          "sets": 3,
-          "reps": 12,
-          "weight": 0,
-          "rest_seconds": 60,
-          "muscle_groups": [
-            "chest",
-            "triceps"
-          ]
-        },
-        {
-          "name": "Inverted Rows",
-          "sets": 3,
-          "reps": 12,
-          "weight": 0,
-          "rest_seconds": 60,
-          "muscle_groups": [
             "upper_back",
             "biceps"
-          ]
-        }
-      ]
-    },
-    {
-      "session_key": "B",
-      "day_type": "Lower Body & Core",
-      "exercises": [
-        {
-          "name": "Kettlebell Swings",
-          "sets": 4,
-          "reps": 15,
-          "weight": 16,
-          "rest_seconds": 75,
-          "muscle_groups": [
-            "glutes",
-            "hamstrings"
-          ]
-        },
-        {
-          "name": "Glute Bridges",
-          "sets": 3,
-          "reps": 15,
-          "weight": 0,
-          "rest_seconds": 60,
-          "muscle_groups": [
-            "glutes",
-            "hamstrings"
-          ]
-        },
-        {
-          "name": "Calf Raises",
-          "sets": 3,
-          "reps": 20,
-          "weight": 0,
-          "rest_seconds": 45,
-          "muscle_groups": [
-            "calves"
           ]
         },
         {
@@ -107,20 +59,70 @@
           "sets": 3,
           "reps": 60,
           "weight": 0,
+          "rest_seconds": 45,
+          "muscle_groups": [
+            "abs"
+          ]
+        }
+      ]
+    },
+    {
+      "session_key": "B",
+      "day_type": "Full Body Power",
+      "exercises": [
+        {
+          "name": "Barbell Overhead Press",
+          "sets": 4,
+          "reps": 5,
+          "weight": 0,
+          "rest_seconds": 90,
+          "muscle_groups": [
+            "shoulders",
+            "triceps"
+          ]
+        },
+        {
+          "name": "Dumbbell Goblet Squat",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 75,
+          "muscle_groups": [
+            "quads",
+            "glutes"
+          ]
+        },
+        {
+          "name": "Kettlebell Swing",
+          "sets": 3,
+          "reps": 12,
+          "weight": 0,
           "rest_seconds": 60,
           "muscle_groups": [
-            "abs",
+            "glutes",
+            "hamstrings",
             "lower_back"
           ]
         },
         {
-          "name": "Leg Raises",
+          "name": "Chin-ups",
           "sets": 3,
-          "reps": 15,
+          "reps": 0,
+          "weight": 0,
+          "rest_seconds": 75,
+          "muscle_groups": [
+            "biceps",
+            "upper_back"
+          ]
+        },
+        {
+          "name": "Dumbbell Bicep Curl",
+          "sets": 3,
+          "reps": 12,
           "weight": 0,
           "rest_seconds": 60,
           "muscle_groups": [
-            "abs"
+            "biceps"
           ]
         }
       ]
@@ -128,14 +130,16 @@
   ],
   "schedule": [
     "A",
+    "B",
+    "A",
     "B"
   ],
-  "start_date": "2026-03-02",
+  "start_date": "2026-03-03",
   "completed_sessions": [
     {
       "week": 1,
       "session_key": "A",
-      "date": "2026-03-03T00:31:47.609Z"
+      "date": "2026-03-03T22:46:19.442Z"
     }
   ]
 }
