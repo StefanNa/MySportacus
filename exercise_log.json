@@ -75,6 +75,82 @@
       ],
       "weight_kg": 0,
       "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T22:56:12.347Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "B",
+      "exercise_name": "Barbell Overhead Press",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T22:56:12.347Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "B",
+      "exercise_name": "Dumbbell Goblet Squat",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T22:56:12.347Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "B",
+      "exercise_name": "Kettlebell Swing",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T22:56:12.347Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "B",
+      "exercise_name": "Chin-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        0,
+        0,
+        0
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T22:56:12.347Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "B",
+      "exercise_name": "Dumbbell Bicep Curl",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
     }
   ]
 }
