@@ -224,6 +224,81 @@
       ],
       "weight_kg": 0,
       "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T00:31:47.596Z",
+      "block_id": "block-20240521",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Push-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T00:31:47.596Z",
+      "block_id": "block-20240521",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Assisted Pull-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T00:31:47.596Z",
+      "block_id": "block-20240521",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Pike Push-ups",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T00:31:47.596Z",
+      "block_id": "block-20240521",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Dips (Bench or Chair)",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-03-03T00:31:47.596Z",
+      "block_id": "block-20240521",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Inverted Rows",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
     }
   ]
 }
