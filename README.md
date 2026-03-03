@@ -1,16 +1,17 @@
 # MySportacus — @StefanNa's Workout Log
 
-> Auto-updated by the Sportacus app · Last sync: 2026-03-01
+> Auto-updated by the Sportacus app · Last sync: 2026-03-03
 
 ## Stats
 | Metric | Value |
 |---|---|
-| Total sessions | 4 |
-| Last workout | 2026-03-01 — Upper Body Push |
+| Total sessions | 5 |
+| Last workout | 2026-03-03 — Upper Body Push & Pull |
 
 ## Recent Workouts (last 5)
 | Date | Type | Exercises | Intensity |
 |---|---|---|---|
+| 2026-03-03 | Upper Body Push & Pull | 5 | Moderate |
 | 2026-03-01 | Upper Body Push | 5 | Moderate |
 | 2026-03-01 | Upper Body Push | 5 | Moderate |
 | 2026-03-01 | Upper Body Push | 5 | Moderate |
