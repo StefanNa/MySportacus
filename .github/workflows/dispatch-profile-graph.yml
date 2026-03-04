@@ -13,18 +13,18 @@ jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
-      - name: Skip if token is missing
-        if: ${{ secrets.PROFILE_REPO_DISPATCH_TOKEN == '' }}
-        run: |
-          echo "PROFILE_REPO_DISPATCH_TOKEN is not set."
-          echo "Set it in repo secrets to enable immediate profile graph updates on push."
-
       - name: Dispatch profile workflow
-        if: ${{ secrets.PROFILE_REPO_DISPATCH_TOKEN != '' }}
         env:
           DISPATCH_TOKEN: ${{ secrets.PROFILE_REPO_DISPATCH_TOKEN }}
         run: |
           set -euo pipefail
+
+          if [ -z "${DISPATCH_TOKEN}" ]; then
+            echo "PROFILE_REPO_DISPATCH_TOKEN is not set."
+            echo "Set it in repo secrets to enable immediate profile graph updates on push."
+            exit 0
+          fi
+
           payload='{"event_type":"workout-graph-update","client_payload":{"target_repo":"StefanNa/MySportacus"}}'
           for attempt in 1 2 3; do
             if curl -fsSL -X POST \
