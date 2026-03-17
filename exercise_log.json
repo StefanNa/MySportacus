@@ -1,27 +1,43 @@
 {
   "entries": [
     {
-      "date": "2026-03-03T22:46:19.440Z",
-      "block_id": "block-20240517",
+      "date": "2026-03-17T21:39:53.158Z",
+      "block_id": "block-20240223",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Barbell Back Squat",
+      "exercise_name": "Kettlebell Swing Blast",
       "sets_completed": 4,
       "actual_reps_per_set": [
-        6,
-        6,
-        6,
-        6
+        10,
+        15,
+        15,
+        15
       ],
-      "weight_kg": 0,
+      "weight_kg": 19,
+      "perceived_intensity": "Maximum"
+    },
+    {
+      "date": "2026-03-17T21:39:53.158Z",
+      "block_id": "block-20240223",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Barbell Jump Squat",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "weight_kg": 48,
       "perceived_intensity": "Moderate"
     },
     {
-      "date": "2026-03-03T22:46:19.440Z",
-      "block_id": "block-20240517",
+      "date": "2026-03-17T21:39:53.158Z",
+      "block_id": "block-20240223",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Dumbbell Romanian Deadlift",
+      "exercise_name": "Band Resisted Nordic Ham Curl",
       "sets_completed": 3,
       "actual_reps_per_set": [
         8,
@@ -32,124 +48,33 @@
       "perceived_intensity": "Moderate"
     },
     {
-      "date": "2026-03-03T22:46:19.440Z",
-      "block_id": "block-20240517",
+      "date": "2026-03-17T21:39:53.158Z",
+      "block_id": "block-20240223",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Barbell Bench Press",
+      "exercise_name": "Dumbbell Farmer's Walk Sprint",
       "sets_completed": 3,
       "actual_reps_per_set": [
-        8,
-        8,
-        8
+        50,
+        50,
+        50
       ],
-      "weight_kg": 0,
+      "weight_kg": 26,
       "perceived_intensity": "Moderate"
     },
     {
-      "date": "2026-03-03T22:46:19.440Z",
-      "block_id": "block-20240517",
+      "date": "2026-03-17T21:39:53.158Z",
+      "block_id": "block-20240223",
       "week": 1,
       "session_key": "A",
-      "exercise_name": "Barbell Row",
+      "exercise_name": "Weighted Plank Pass-Through",
       "sets_completed": 3,
       "actual_reps_per_set": [
         10,
         10,
         10
       ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T22:46:19.440Z",
-      "block_id": "block-20240517",
-      "week": 1,
-      "session_key": "A",
-      "exercise_name": "Plank",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        60,
-        60,
-        60
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T22:56:12.347Z",
-      "block_id": "block-20240517",
-      "week": 1,
-      "session_key": "B",
-      "exercise_name": "Barbell Overhead Press",
-      "sets_completed": 4,
-      "actual_reps_per_set": [
-        5,
-        5,
-        5,
-        5
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T22:56:12.347Z",
-      "block_id": "block-20240517",
-      "week": 1,
-      "session_key": "B",
-      "exercise_name": "Dumbbell Goblet Squat",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        10,
-        10,
-        10
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T22:56:12.347Z",
-      "block_id": "block-20240517",
-      "week": 1,
-      "session_key": "B",
-      "exercise_name": "Kettlebell Swing",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        12,
-        12,
-        12
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T22:56:12.347Z",
-      "block_id": "block-20240517",
-      "week": 1,
-      "session_key": "B",
-      "exercise_name": "Chin-ups",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        0,
-        0,
-        0
-      ],
-      "weight_kg": 0,
-      "perceived_intensity": "Moderate"
-    },
-    {
-      "date": "2026-03-03T22:56:12.347Z",
-      "block_id": "block-20240517",
-      "week": 1,
-      "session_key": "B",
-      "exercise_name": "Dumbbell Bicep Curl",
-      "sets_completed": 3,
-      "actual_reps_per_set": [
-        12,
-        12,
-        12
-      ],
-      "weight_kg": 0,
+      "weight_kg": 8,
       "perceived_intensity": "Moderate"
     }
   ]
