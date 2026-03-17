@@ -1,9 +1,13 @@
 {
   "trainingLevel": "intermediate",
-  "preferredStyle": "calisthenics",
+  "preferredStyle": "crossfit",
   "equipment": [
+    "Barbell",
+    "Squat Rack",
+    "Dumbbells",
+    "Resistance Bands",
+    "Bodyweight Only",
     "Kettlebell",
-    "Mats",
-    "Bodyweight Only"
+    "Pull-up Bar"
   ]
 }
