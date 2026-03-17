@@ -1,91 +1,29 @@
 {
-  "id": "block-20240517",
-  "generated_at": "2026-03-03T18:51:27.202Z",
+  "id": "block-20240223",
+  "generated_at": "2026-03-17T21:38:36.876Z",
   "weeks_total": 4,
   "sessions_per_week": 4,
   "sessions": [
     {
       "session_key": "A",
-      "day_type": "Full Body Strength",
+      "day_type": "Lower Body Power & Core Crusher",
       "exercises": [
         {
-          "name": "Barbell Back Squat",
+          "name": "Kettlebell Swing Blast",
           "sets": 4,
-          "reps": 6,
-          "weight": 0,
-          "rest_seconds": 90,
-          "muscle_groups": [
-            "quads",
-            "glutes",
-            "lower_back"
-          ]
-        },
-        {
-          "name": "Dumbbell Romanian Deadlift",
-          "sets": 3,
-          "reps": 8,
-          "weight": 0,
-          "rest_seconds": 75,
-          "muscle_groups": [
-            "hamstrings",
-            "glutes",
-            "lower_back"
-          ]
-        },
-        {
-          "name": "Barbell Bench Press",
-          "sets": 3,
-          "reps": 8,
-          "weight": 0,
-          "rest_seconds": 75,
-          "muscle_groups": [
-            "chest",
-            "triceps"
-          ]
-        },
-        {
-          "name": "Barbell Row",
-          "sets": 3,
-          "reps": 10,
-          "weight": 0,
+          "reps": 15,
+          "weight": 24,
           "rest_seconds": 60,
           "muscle_groups": [
-            "upper_back",
-            "biceps"
+            "glutes",
+            "hamstrings"
           ]
         },
         {
-          "name": "Plank",
-          "sets": 3,
-          "reps": 60,
-          "weight": 0,
-          "rest_seconds": 45,
-          "muscle_groups": [
-            "abs"
-          ]
-        }
-      ]
-    },
-    {
-      "session_key": "B",
-      "day_type": "Full Body Power",
-      "exercises": [
-        {
-          "name": "Barbell Overhead Press",
+          "name": "Barbell Jump Squat",
           "sets": 4,
-          "reps": 5,
-          "weight": 0,
-          "rest_seconds": 90,
-          "muscle_groups": [
-            "shoulders",
-            "triceps"
-          ]
-        },
-        {
-          "name": "Dumbbell Goblet Squat",
-          "sets": 3,
-          "reps": 10,
-          "weight": 0,
+          "reps": 8,
+          "weight": 60,
           "rest_seconds": 75,
           "muscle_groups": [
             "quads",
@@ -93,36 +31,99 @@
           ]
         },
         {
-          "name": "Kettlebell Swing",
+          "name": "Band Resisted Nordic Ham Curl",
           "sets": 3,
-          "reps": 12,
+          "reps": 8,
           "weight": 0,
           "rest_seconds": 60,
           "muscle_groups": [
-            "glutes",
-            "hamstrings",
-            "lower_back"
+            "hamstrings"
           ]
         },
         {
-          "name": "Chin-ups",
+          "name": "Dumbbell Farmer's Walk Sprint",
           "sets": 3,
-          "reps": 0,
-          "weight": 0,
-          "rest_seconds": 75,
+          "reps": 50,
+          "weight": 32,
+          "rest_seconds": 90,
           "muscle_groups": [
-            "biceps",
+            "abs",
             "upper_back"
           ]
         },
         {
-          "name": "Dumbbell Bicep Curl",
+          "name": "Weighted Plank Pass-Through",
           "sets": 3,
-          "reps": 12,
+          "reps": 10,
+          "weight": 10,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "abs",
+            "shoulders"
+          ]
+        }
+      ]
+    },
+    {
+      "session_key": "B",
+      "day_type": "Upper Body Pull & Stabilize",
+      "exercises": [
+        {
+          "name": "Pull-up Cluster Complex",
+          "sets": 4,
+          "reps": 3,
+          "weight": 0,
+          "rest_seconds": 90,
+          "muscle_groups": [
+            "upper_back",
+            "biceps"
+          ]
+        },
+        {
+          "name": "Dumbbell Renegade Row Fury",
+          "sets": 3,
+          "reps": 10,
+          "weight": 20,
+          "rest_seconds": 75,
+          "muscle_groups": [
+            "upper_back",
+            "abs",
+            "triceps"
+          ]
+        },
+        {
+          "name": "Band Pull-Apart Precision",
+          "sets": 3,
+          "reps": 20,
           "weight": 0,
           "rest_seconds": 60,
           "muscle_groups": [
-            "biceps"
+            "shoulders",
+            "upper_back"
+          ]
+        },
+        {
+          "name": "Barbell Romanian Deadlift",
+          "sets": 4,
+          "reps": 10,
+          "weight": 80,
+          "rest_seconds": 75,
+          "muscle_groups": [
+            "hamstrings",
+            "glutes",
+            "lower_back"
+          ]
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "sets": 3,
+          "reps": 12,
+          "weight": 25,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "chest",
+            "shoulders",
+            "triceps"
           ]
         }
       ]
@@ -134,17 +135,12 @@
     "A",
     "B"
   ],
-  "start_date": "2026-03-03",
+  "start_date": "2026-03-17",
   "completed_sessions": [
     {
       "week": 1,
       "session_key": "A",
-      "date": "2026-03-03T22:46:19.442Z"
-    },
-    {
-      "week": 1,
-      "session_key": "B",
-      "date": "2026-03-03T22:56:12.348Z"
+      "date": "2026-03-17T21:39:53.159Z"
     }
   ]
 }
