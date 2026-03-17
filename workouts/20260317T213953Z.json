@@ -1,0 +1,124 @@
+{
+  "date": "2026-03-17T21:39:53.158Z",
+  "day_type": "Lower Body Power & Core Crusher",
+  "intensity": "Moderate",
+  "block_week": 1,
+  "exercises": [
+    {
+      "name": "Kettlebell Swing Blast",
+      "sets": 4,
+      "reps": 15,
+      "weight": 19,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "glutes",
+        "hamstrings"
+      ]
+    },
+    {
+      "name": "Barbell Jump Squat",
+      "sets": 4,
+      "reps": 8,
+      "weight": 48,
+      "rest_seconds": 75,
+      "muscle_groups": [
+        "quads",
+        "glutes"
+      ]
+    },
+    {
+      "name": "Band Resisted Nordic Ham Curl",
+      "sets": 3,
+      "reps": 8,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "hamstrings"
+      ]
+    },
+    {
+      "name": "Dumbbell Farmer's Walk Sprint",
+      "sets": 3,
+      "reps": 50,
+      "weight": 26,
+      "rest_seconds": 90,
+      "muscle_groups": [
+        "abs",
+        "upper_back"
+      ]
+    },
+    {
+      "name": "Weighted Plank Pass-Through",
+      "sets": 3,
+      "reps": 10,
+      "weight": 8,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "abs",
+        "shoulders"
+      ]
+    }
+  ],
+  "actual_results": [
+    {
+      "exercise_name": "Kettlebell Swing Blast",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        10,
+        15,
+        15,
+        15
+      ],
+      "planned_weight": 19,
+      "perceived_intensity": "Maximum"
+    },
+    {
+      "exercise_name": "Barbell Jump Squat",
+      "sets_completed": 4,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 48,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Band Resisted Nordic Ham Curl",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Dumbbell Farmer's Walk Sprint",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        50,
+        50,
+        50
+      ],
+      "planned_weight": 26,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Weighted Plank Pass-Through",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 8,
+      "perceived_intensity": "Moderate"
+    }
+  ],
+  "overall_intensity": "Maximum",
+  "block_id": "block-20240223",
+  "session_key": "A"
+}
