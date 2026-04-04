@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-04T20:29:11.513Z",
+  "day_type": "strength",
+  "intensity": "Moderate",
+  "block_week": 1,
+  "exercises": [
+    {
+      "name": "Bodyweight Squat",
+      "sets": 3,
+      "reps": 10,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "quads",
+        "glutes"
+      ],
+      "substitution_options": [
+        "Chair Squat"
+      ]
+    },
+    {
+      "name": "Incline Push-up",
+      "sets": 3,
+      "reps": 8,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "chest",
+        "shoulders",
+        "triceps"
+      ],
+      "substitution_options": [
+        "Wall Push-up"
+      ]
+    },
+    {
+      "name": "Glute Bridge",
+      "sets": 3,
+      "reps": 12,
+      "weight": 0,
+      "rest_seconds": 60,
+      "muscle_groups": [
+        "glutes",
+        "lower_back"
+      ],
+      "substitution_options": []
+    },
+    {
+      "name": "Plank",
+      "sets": 3,
+      "reps": 30,
+      "weight": 0,
+      "rest_seconds": 60,
+      "notes": "Hold for 30 seconds. Focus on keeping a straight line from head to heels.",
+      "muscle_groups": [
+        "abs",
+        "shoulders",
+        "lower_back"
+      ],
+      "substitution_options": [
+        "Knee Plank"
+      ]
+    }
+  ],
+  "actual_results": [
+    {
+      "exercise_name": "Bodyweight Squat",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Incline Push-up",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Glute Bridge",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "exercise_name": "Plank",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        30,
+        30,
+        30
+      ],
+      "planned_weight": 0,
+      "perceived_intensity": "Moderate"
+    }
+  ],
+  "overall_intensity": "Moderate",
+  "block_id": "block-20240517",
+  "session_key": "A",
+  "coach_rationale": "Stay the course",
+  "coach_adjustments": [
+    "Stay the course"
+  ],
+  "readiness_classification": "maintain",
+  "profile_name": "Default"
+}
