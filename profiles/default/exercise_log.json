@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "date": "2026-04-04T20:29:11.513Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Bodyweight Squat",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        10,
+        10,
+        10
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-04-04T20:29:11.513Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Incline Push-up",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        8,
+        8,
+        8
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-04-04T20:29:11.513Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Glute Bridge",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        12,
+        12,
+        12
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    },
+    {
+      "date": "2026-04-04T20:29:11.513Z",
+      "block_id": "block-20240517",
+      "week": 1,
+      "session_key": "A",
+      "exercise_name": "Plank",
+      "sets_completed": 3,
+      "actual_reps_per_set": [
+        30,
+        30,
+        30
+      ],
+      "weight_kg": 0,
+      "perceived_intensity": "Moderate"
+    }
+  ]
+}
