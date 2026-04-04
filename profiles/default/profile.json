@@ -1,0 +1,14 @@
+{
+  "trainingLevel": "beginner",
+  "preferredStyle": "calisthenics",
+  "equipment": [
+    "Bodyweight Only"
+  ],
+  "coachPersonaId": "balanced_foundation",
+  "primaryGoal": "general_health",
+  "sessionDurationMinutes": 45,
+  "scheduleConstraints": {
+    "summary": ""
+  },
+  "lifeStage": "general"
+}
