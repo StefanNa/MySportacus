@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {
+      "completed_at": "2026-03-17T21:39:53.158Z",
+      "profile_name": "Travel",
+      "session_key": "A",
+      "day_type": "Lower Body Power & Core Crusher",
+      "block_week": 1,
+      "overall_intensity": "Maximum",
+      "exercise_count": 5,
+      "totals": {
+        "sets": 17,
+        "reps": 291,
+        "volume_kg": 6721
+      }
+    },
+    {
+      "completed_at": "2026-04-04T22:39:46.109Z",
+      "profile_name": "Travel",
+      "session_key": "A",
+      "day_type": "Full Body Strength",
+      "block_week": 1,
+      "overall_intensity": "Moderate",
+      "actual_duration_minutes": 1,
+      "exercise_count": 5,
+      "totals": {
+        "sets": 15,
+        "reps": 144,
+        "volume_kg": 420
+      }
+    }
+  ]
+}
