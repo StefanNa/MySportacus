@@ -1,0 +1,217 @@
+{
+  "id": "block-20240517",
+  "generated_at": "2026-04-04T19:23:26.742Z",
+  "weeks_total": 4,
+  "sessions": [
+    {
+      "session_key": "A",
+      "day_type": "strength",
+      "coach_focus": "Focus on controlled movements and proper form for foundational strength. Let's build a solid base.",
+      "target_duration_minutes": 45,
+      "exercises": [
+        {
+          "name": "Bodyweight Squat",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "quads",
+            "glutes"
+          ],
+          "substitution_options": [
+            "Chair Squat"
+          ]
+        },
+        {
+          "name": "Incline Push-up",
+          "sets": 3,
+          "reps": 8,
+          "weight": 0,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "chest",
+            "shoulders",
+            "triceps"
+          ],
+          "substitution_options": [
+            "Wall Push-up"
+          ]
+        },
+        {
+          "name": "Glute Bridge",
+          "sets": 3,
+          "reps": 12,
+          "weight": 0,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "glutes",
+            "lower_back"
+          ],
+          "substitution_options": []
+        },
+        {
+          "name": "Plank",
+          "sets": 3,
+          "reps": 30,
+          "weight": 0,
+          "rest_seconds": 60,
+          "notes": "Hold for 30 seconds. Focus on keeping a straight line from head to heels.",
+          "muscle_groups": [
+            "abs",
+            "shoulders",
+            "lower_back"
+          ],
+          "substitution_options": [
+            "Knee Plank"
+          ]
+        }
+      ]
+    },
+    {
+      "session_key": "B",
+      "day_type": "strength",
+      "coach_focus": "Engage your upper body and core with an emphasis on pulling and stability. Keep the movements smooth.",
+      "target_duration_minutes": 45,
+      "exercises": [
+        {
+          "name": "Walking Lunge",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 60,
+          "notes": "10 reps per leg.",
+          "muscle_groups": [
+            "quads",
+            "glutes"
+          ],
+          "substitution_options": [
+            "Static Lunge"
+          ]
+        },
+        {
+          "name": "Australian Pull-up (Inverted Row)",
+          "sets": 3,
+          "reps": 8,
+          "weight": 0,
+          "rest_seconds": 60,
+          "notes": "Use a sturdy table or low bar. Adjust angle for difficulty.",
+          "muscle_groups": [
+            "upper_back",
+            "biceps"
+          ],
+          "substitution_options": [
+            "Towel Row"
+          ]
+        },
+        {
+          "name": "Bird Dog",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 60,
+          "notes": "10 reps per side. Focus on core stability.",
+          "muscle_groups": [
+            "abs",
+            "lower_back",
+            "glutes"
+          ],
+          "substitution_options": []
+        },
+        {
+          "name": "Calf Raise",
+          "sets": 3,
+          "reps": 15,
+          "weight": 0,
+          "rest_seconds": 45,
+          "muscle_groups": [
+            "calves"
+          ],
+          "substitution_options": []
+        }
+      ]
+    },
+    {
+      "session_key": "C",
+      "day_type": "strength",
+      "coach_focus": "A full-body session to reinforce movement patterns and build endurance. Move mindfully.",
+      "target_duration_minutes": 45,
+      "exercises": [
+        {
+          "name": "Split Squat",
+          "sets": 3,
+          "reps": 10,
+          "weight": 0,
+          "rest_seconds": 60,
+          "notes": "10 reps per leg.",
+          "muscle_groups": [
+            "quads",
+            "glutes"
+          ],
+          "substitution_options": [
+            "Assisted Split Squat"
+          ]
+        },
+        {
+          "name": "Push-up",
+          "sets": 3,
+          "reps": 6,
+          "weight": 0,
+          "rest_seconds": 60,
+          "notes": "Perform on knees if needed. Focus on controlled descent.",
+          "muscle_groups": [
+            "chest",
+            "shoulders",
+            "triceps"
+          ],
+          "substitution_options": [
+            "Incline Push-up"
+          ]
+        },
+        {
+          "name": "Superman",
+          "sets": 3,
+          "reps": 12,
+          "weight": 0,
+          "rest_seconds": 60,
+          "muscle_groups": [
+            "lower_back",
+            "glutes",
+            "upper_back"
+          ],
+          "substitution_options": []
+        },
+        {
+          "name": "Side Plank",
+          "sets": 3,
+          "reps": 20,
+          "weight": 0,
+          "rest_seconds": 45,
+          "notes": "Hold for 20 seconds per side.",
+          "muscle_groups": [
+            "abs",
+            "shoulders"
+          ],
+          "substitution_options": [
+            "Knee Side Plank"
+          ]
+        }
+      ]
+    }
+  ],
+  "schedule": [],
+  "start_date": "2026-04-04",
+  "completed_sessions": [
+    {
+      "week": 1,
+      "session_key": "A",
+      "date": "2026-04-04T20:29:11.513Z"
+    }
+  ],
+  "coach_notes": "Welcome to your 4-week training block! Our focus is on building a consistent and healthy routine with calisthenics. Remember to listen to your body; if something doesn't feel right, it's okay to rest or modify. Consistency is key, so let's build a great habit together.",
+  "block_focus": [
+    "general_health",
+    "stay_consistent",
+    "calisthenics_foundations"
+  ]
+}
