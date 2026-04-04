@@ -1,0 +1,15 @@
+{
+  "completed_at": "2026-04-04T22:39:46.109Z",
+  "profile_name": "Travel",
+  "session_key": "A",
+  "day_type": "Full Body Strength",
+  "block_week": 1,
+  "overall_intensity": "Moderate",
+  "actual_duration_minutes": 1,
+  "exercise_count": 5,
+  "totals": {
+    "sets": 15,
+    "reps": 144,
+    "volume_kg": 420
+  }
+}
